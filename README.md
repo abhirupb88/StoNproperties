@@ -7,7 +7,7 @@ Banerjee, A., & Mukhoti, S. (2023). Characterization of a robust probabilistic f
 or
 
 @article{BanerjeeStat2023,<br />
-  author = {Banerjee, Abhirup and Mukhoti, Sujay},<br />
+  &nbsp;author = {Banerjee, Abhirup and Mukhoti, Sujay},<br />
   title = {Characterization of a robust probabilistic framework for brain magnetic resonance image data distributions},<br />
   journal = {Stat},<br />
   volume = {12},<br />
