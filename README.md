@@ -1,7 +1,7 @@
 **Original Article:**
 https://onlinelibrary.wiley.com/doi/10.1002/sta4.541
 
-**Please cite the article as:**
+**Please cite the article as:**<br />
 Banerjee, A., & Mukhoti, S. (2023). Characterization of a robust probabilistic framework for brain magnetic resonance image data distributions. Stat, 12(1), e541. https://doi.org/10.1002/sta4.541
 
 or
